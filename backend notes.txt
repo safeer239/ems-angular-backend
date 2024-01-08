@@ -1,0 +1,6 @@
+                                            REST API
+                ----------------------------------------------------------------
+        1. Create packeage.json file - npm init -y
+        2.Install json server - npm i json-server
+        3.Create .gitignore file , inorder to ignore  the node modules file
+        5.Create db.json file to store json data
